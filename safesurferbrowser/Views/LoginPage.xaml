@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="safesurferbrowser.Views.LoginPage"
+             Shell.NavBarIsVisible="False">
+    <ContentPage.Content>
+        <Grid>
+            <Grid x:Name="AdminCreate" IsVisible="{Binding AdminCreateVis}">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="10*"/>
+                    <RowDefinition Height="10*"/>
+                    <RowDefinition Height="10*"/>
+                    <RowDefinition Height="70*"/>
+                </Grid.RowDefinitions>
+                <Label Text="Please create a password for the admin account" Grid.Row="0"/>
+                <Entry x:Name="NewAdminPass" VerticalOptions="Center" Text="{Binding AdminPass}" Grid.Row="1"/>
+                <Button x:Name="AddPass" VerticalOptions="Center" Text="Create" Command="{Binding CreatePass}" Grid.Row="2"/>
+            </Grid>
+
+            <Grid x:Name="Login" IsVisible="{Binding LoginVis}">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="10*"/>
+                    <RowDefinition Height="10*"/>
+                    <RowDefinition Height="80*"/>
+                </Grid.RowDefinitions>
+                <Entry x:Name="LoginEntry" VerticalOptions="Center" Text="{Binding LoginPass}" Grid.Row="0"/>
+                <Button x:Name="LoginBtn"  VerticalOptions="Center" Text="Login" Command="{Binding LoginCommand}" Grid.Row="1"/>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

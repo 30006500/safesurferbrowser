@@ -1,0 +1,16 @@
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\bin\Debug\netstandard2.0\safesurferbrowser.deps.json
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\bin\Debug\netstandard2.0\safesurferbrowser.dll
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\bin\Debug\netstandard2.0\ref\safesurferbrowser.dll
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\bin\Debug\netstandard2.0\safesurferbrowser.pdb
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\safesurferbrowser.csprojAssemblyReference.cache
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\safesurferbrowser.AssemblyInfoInputs.cache
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\safesurferbrowser.AssemblyInfo.cs
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\safesurferbrowser.csproj.CoreCompileInputs.cache
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\safesurferbrowser.dll
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\ref\safesurferbrowser.dll
+C:\Users\hp user\Documents\safesurferbrowser\safesurferbrowser\obj\Debug\netstandard2.0\safesurferbrowser.pdb
